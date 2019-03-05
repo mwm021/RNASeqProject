@@ -1,0 +1,1 @@
+Id	Ctrl1	Ctrl3	Ctrl4	RNAi1	RNAi3	RNAi4	norm.Ctrl1	norm.Ctrl3	norm.Ctrl4	norm.RNAi1	norm.RNAi3	norm.RNAi4	baseMean	Untreated	RNAi	FoldChange	log2FoldChange	stat	pvalue	padj	dispGeneEst	dispFit	dispMAP	dispersion	betaConv	maxCooks

@@ -10,7 +10,7 @@
 ################################################################################
 rm(list=ls())                                        # remove all the objects from the R session
 
-workDir <- "/Users/mattmcgauley/Documents/Documents - Matt’s MacBook Pro/Junior Year/Second Semester/BIOL 364/RNASeqProject/SARTools"      # working directory for the R session
+workDir <- "/Users/mattmcgauley/Documents/Documents - Matt’s MacBook Pro/Junior Year/Second Semester/BIOL 364/RNASeqProject/CopyOfSARTools"      # working directory for the R session
 
 projectName <- "ARTools.DESeq2.genes"                         # name of the project
 author <- "Matt McGauley"                                # author of the statistical analysis/report
@@ -23,7 +23,7 @@ featuresToRemove <- NULL                           #  names of the features to b
 
 varInt <- "Treatment"                                    # factor of interest
 condRef <- "Untreated"                                      # reference biological condition
-batch <- NULL                                        # blocking factor: NULL (default) or "batch" for example
+batch <- "batch"                                        # blocking factor: NULL (default) or "batch" for example
 
 idColumn = 1                                         # column with feature Ids (usually 1)
 countColumn = 5                                      # column with counts  (2 for htseq-count, 7 for featurecounts, 5 for RSEM/Salmon, 4 for kallisto)

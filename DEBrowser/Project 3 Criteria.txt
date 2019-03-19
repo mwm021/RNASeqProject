@@ -1,0 +1,28 @@
+Project 3 Criteria
+
+padj: 0.01
+2 foldChange
+
+MA Plot
+
+
+-----------------------
+
+
+List of:
+	-Up regulated genes
+	-Down regulated genes
+	-Gene names
+	-tsv file from DEBrowser
+
+
+-----------------------
+
+		Table:
+		------
+
+Align		DE		Dir
+-----		--		---
+Bowtie		DESEQ2		Up
+  ""		  ""		Down
+s

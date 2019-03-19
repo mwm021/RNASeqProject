@@ -2,4 +2,8 @@ This file will be used to test Branching and Pull Requests.
 
 This change is being made on the test-branch.
 
+<<<<<<< HEAD
 Hello World!
+=======
+
+>>>>>>> 55e6528e7e09b10273d9d5206016391f2ae2b766

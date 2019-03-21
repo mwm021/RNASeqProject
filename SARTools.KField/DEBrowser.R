@@ -5,7 +5,6 @@
 if (!requireNamespace("BiocManager", quietly=TRUE))
   install.packages("BiocManager")
 BiocManager::install("debrowser")
-
 # 2. Load the library
 
 library(debrowser)
